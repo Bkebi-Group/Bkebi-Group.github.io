@@ -19,8 +19,7 @@ body.dark-theme {
 }
 
 header {
-    background-image: url(../img/aokcmap.jpg);
-    /* background-image: url(../img/home-banner.jpg); */
+    background-image: url(../img/background.jpg);
     box-shadow: 0 0 20px rgba(0, 0, 0, .5), inset 0 -8px rgba(0, 0, 0, .3);
     min-height: 100vh
 }
@@ -37,8 +36,7 @@ header.bg-cover::before {
 }
 
 #banner-logo {
-    /* background: url(../img/acrepi.png) no-repeat; */
-    background: url(../img/ascef.webp) no-repeat;
+    background: url(../img/logo.png) no-repeat;
 
     background-position: 0 center;
     background-size: auto 410px;
