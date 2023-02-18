@@ -1,0 +1,158 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://bkebi.netlify.app/",
+            "path": "index.html",
+            "saved": true,
+            "size": 36064,
+            "children": [
+                {
+                    "url": "https://qnimg1.wellcee.com/ascascs.webp",
+                    "path": "img/ascascs.webp",
+                    "saved": true,
+                    "size": 6318
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/ascascs.webp",
+                    "saved": false
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/ascascs.webp",
+                    "saved": false
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/data/2023/02/03/16753569844708617",
+                    "path": "img/16753569844708617.svg",
+                    "saved": true,
+                    "size": 3396
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/adcsasc.png",
+                    "path": "img/adcsasc.jpeg",
+                    "saved": true,
+                    "size": 144492
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/apprpvmpfhbbks.jpg",
+                    "path": "img/apprpvmpfhbbks.jpeg",
+                    "saved": true,
+                    "size": 183348
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/adcsasca.jpg",
+                    "path": "img/adcsasca.jpeg",
+                    "saved": true,
+                    "size": 135891
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/askcaoshbbk.jpg",
+                    "path": "img/askcaoshbbk.jpeg",
+                    "saved": true,
+                    "size": 144431
+                },
+                {
+                    "url": "https://hm.baidu.com/hm.js?ddea3edc61dbd009ef3a89ec23a42581",
+                    "saved": false
+                },
+                {
+                    "url": "https://bkebi.netlify.app/js/script.min.js",
+                    "path": "js/script.min.js",
+                    "saved": true,
+                    "size": 1198
+                },
+                {
+                    "url": "https://at.alicdn.com/t/c/font_2543873_31vw24utro8.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/oasncancepstyle.css",
+                    "path": "css/oasncancepstyle.css",
+                    "saved": true,
+                    "size": 21445
+                },
+                {
+                    "url": "https://qnimg1.wellcee.com/sjnvsjdnvsjdindex.css",
+                    "path": "css/sjnvsjdnvsjdindex.css",
+                    "saved": true,
+                    "size": 13155,
+                    "children": [
+                        {
+                            "url": "https://qnimg1.wellcee.com/aokcmap.jpg",
+                            "path": "img/aokcmap.jpg",
+                            "saved": true,
+                            "size": 266748
+                        },
+                        {
+                            "url": "https://qnimg1.wellcee.com/ascef.webp",
+                            "path": "img/ascef.webp",
+                            "saved": true,
+                            "size": 7820
+                        },
+                        {
+                            "url": "https://qnimg1.wellcee.com/img/neon-background.svg",
+                            "saved": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "bkebi-netlify-app-0woly6ft",
+    "info": {
+        "remark": [],
+        "title": "Bkebi - China",
+        "domain": "bkebi.netlify.app",
+        "origin": "https://bkebi.netlify.app",
+        "ip": "34.87.59.92",
+        "main": "index.html",
+        "url": "https://bkebi.netlify.app/",
+        "totalSize": "964 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://bkebi.netlify.app/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://bkebi.netlify.app/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "age": "0",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-length": "38863",
+                "content-type": "text/html; charset=UTF-8",
+                "date": "Fri, 17 Feb 2023 09:48:57 GMT",
+                "etag": "\"c51c85bb41518723f501014aca535866-ssl\"",
+                "server": "Netlify",
+                "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+                "x-nf-request-id": "01GSFCDQV49ZGK3TFPXD2G6ERP",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2023-02-17T09:48:56.708Z",
+            "end": "2023-02-17T09:48:59.534Z"
+        }
+    },
+    "options": {
+        "url": "https://bkebi.netlify.app/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
