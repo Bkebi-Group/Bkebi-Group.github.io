@@ -1,4 +1,0 @@
-- 获取坐标配置文件
-  - [Xcating 's JsonPacks](https://github.com/Xcating/Json_Integration)
-  - [Sleep TP](https://wwzb.lanzoue.com/invXS0lwy0yh)
-  - [Sam5440/Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport)
