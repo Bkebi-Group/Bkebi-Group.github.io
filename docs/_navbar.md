@@ -2,3 +2,4 @@
   - [Xcating 's JsonPacks](https://github.com/Xcating/Json_Integration)
   - [Sleep TP](https://wwzb.lanzoue.com/invXS0lwy0yh)
   - [Sam5440/Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport)
+  - [Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json)
