@@ -11,9 +11,9 @@
 
 将这两个文件解压出来放在**非原神根目录、非桌面、非中文路径**的任意文件夹中（推荐使用空文件夹），我们就完成了下载解压步骤了。
 
-![](_images/GithubRelease.png "下载程序")
+![](_images/ZH_CN/GithubRelease.png "下载程序")
 
-![](_images/Download.png "解压程序")
+![](_images/ZH_CN/Download.png "解压程序")
 
 > 如果访问和下载速度慢，你可能需要开启网络加速器，此处不作多余说明。
 
@@ -21,11 +21,15 @@
 
 ## 初次使用
 
-在关闭原神的情况下，双击打开(需要管理员权限)`injector.exe` 启动 Bkebi 
+1. 在**关闭原神**的情况下，双击打开(需要**管理员权限**)`injector.exe` 启动 Bkebi 。
+   > 如果没有反应和注入失败，你应当检查是否被安全杀毒软件拦截，此时你应当将 Bkebi 添加进杀毒软件白名单或者直接关闭杀毒软件。
 
-第一次使用需要指定游戏程序路径，请在弹出的“Select genshin path”中选择路径。一般情况下，原神游戏文件夹处于启动器文件夹中“Genshin Impact Game”中，国服请在里面找到 Yuanshen.exe 选择并确认，国际服的名称应该选择 GenshinImpact.exe 
+2. 第一次使用需要指定游戏程序路径，请在弹出的“Select genshin path”中选择路径。
+   > 一般情况下，原神游戏文件夹处于启动器文件夹中“Genshin Impact Game”中，国服请在里面找到 Yuanshen.exe 选择并确认，国际服的名称应该选择 GenshinImpact.exe 
 
-选择完成后就会自行加载并进入游戏。
+3. 选择完成后就会自行加载并进入游戏。
+
+
 
 ## 使用建议
 
@@ -42,5 +46,5 @@
    * Simplified Chinese | ZH-CN | 简体中文
    * Traditonal Chinese | ZH-TW | 繁体中文
 
-![](_images/ChangeLanguage.png "更换简体中文语言")
+![](_images/ZH_CN/ChangeLanguage.png "更换简体中文语言")
 

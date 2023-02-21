@@ -6,13 +6,13 @@ Bkebi 支持多种配置文件切换和绑定，先简单介绍一下这两项�
 
 开启辅助后在功能界面的左上方切换配置
 
-![](_images/ConfigureSwitch.png "切换配置")
+![](_images/ZH_CN/ConfigureSwitch.png "切换配置")
 
 ## 绑定
 
 如果您不想每一次上号都进行一次切换配置，那么您可以对配置文件进行绑定
 
-![](_images/ConfigureBinding.png)
+![](_images/ZH_CN/ConfigureBinding.png)
 
 ## 配置模板
 

@@ -1,6 +1,8 @@
 # Bkebi
 
 > 某款知名游戏辅助工具
+> 
+> 兼容国服与国际服
 
 
 
@@ -9,7 +11,7 @@
 * **玩家类**
   * 攻击效果：攻击倍率、范围、动画效果、攻击速度、元素攻击类型
   * 自动奔跑
-  * 冷却效果：技能CD、冲刺CD、弓箭蓄力
+  * 冷却效果：技能 CD、冲刺 CD、弓箭蓄力
   * 坠落控制
   * 无敌模式
   * 无限体力
@@ -49,7 +51,7 @@
   * 自定义资料卡
   * 自定义天气
   * 表情修改
-  * FPS帧率解锁
+  * FPS 帧率解锁
   * 风之翼
   * 自由相机
   * 皮肤修改
@@ -68,6 +70,6 @@
 
 此文档参考使用的资源
 
-* [docsify](https://docsify.js.org/)
+* [Docsify](https://docsify.js.org/)
 
-* [Bkebi中文使用图文教程1.0](https://www.kdocs.cn/l/csNDRjijraFk)
+* [Bkebi 中文使用图文教程 1.0](https://www.kdocs.cn/l/csNDRjijraFk)
