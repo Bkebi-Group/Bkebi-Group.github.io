@@ -43,8 +43,8 @@
 
 更改一次攻击能造成随机的几次伤害。
 
-- 会覆盖上面的`倍率`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#倍率)。
-- 仅在`秒杀模式`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#秒杀模式)关闭的情况下生效。
+- 会覆盖上面的`倍率`。
+- 仅在`秒杀模式`关闭的情况下生效。
 
 #### 倍功最小值 
 
@@ -58,7 +58,7 @@
 
 - 范围: 2 ~ 1000
 
-![Randomize_Mulitiplier.gif](_images/ZH_CN/Player/Randomize_Mulitiplier.e744f237.gif)
+![Randomize_Mulitiplier.gif](_images/ZH_CN/Player/Randomize_Mulitiplier.gif)
 
 ------
 
@@ -75,7 +75,7 @@
 
 - 范围: 5 ~ 50
 
-![Multi-Target.gif](_images/ZH_CN/Player/Multi-Target.337b7eda.gif)
+![Multi-Target.gif](_images/ZH_CN/Player/Multi-Target.gif)
 
 ------
 
@@ -105,7 +105,7 @@
 
 - 范围: 1 ~ 5
 
-![Attack_Speed.gif](_images/ZH_CN/Player/Attack_Speed.40b7d83e.gif)
+![Attack_Speed.gif](_images/ZH_CN/Player/Attack_Speed.gif)
 
 ------
 
@@ -113,17 +113,17 @@
 
 使角色造成的所有伤害为指定元素。
 
-- 一共有三种模式: `随机元素类型`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#随机元素类型)、`元素类型`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#元素类型)以及`元素队列模式`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#元素队列模式)。
+- 一共有三种模式: `随机元素类型`以及`元素队列模式`。
 - 若要关闭此功能则需切换场景。
 
 ### 随机元素类型 
 
 随机选择造成伤害的元素类型。
 
-- 会覆盖下面的`元素类型`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#元素类型)。
+- 会覆盖下面的`元素类型`。
 - 随机选择11种: 火 水 草 雷 冰 冰封 风 岩 免疫 枫丹小艇反冻结 未知
 
-![RandomElementType.gif](_images/ZH_CN/Player/RandomElementType.a8351b3f.gif)
+![RandomElementType.gif](_images/ZH_CN/Player/RandomElementType.gif)
 
 ### 元素类型 
 
@@ -131,17 +131,17 @@
 
 - 可指定12种: 无 火 水 草 雷 冰 冰封 风 岩 免疫 枫丹小艇反冻结 未知
 
-![ElementType.png](_images/ZH_CN/Player/ElementType.2c27c9f0.png)
+![ElementType.png](_images/ZH_CN/Player/ElementType.png)
 
 ### 元素队列模式 
 
 自定义造成伤害的元素类型的顺序。
 
-- 会覆盖上面的`元素类型`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#元素类型)。
+- 会覆盖上面的`元素类型`。
 
 #### 添加 
 
-添加`元素类型`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#元素类型)选择的元素至列表最后。
+添加`元素类型`选择的元素至列表最后。
 
 #### 清除 
 
@@ -151,7 +151,7 @@
 
 删除列表中最后一项。
 
-![Queued_Element.gif](_images/ZH_CN/Player/Queued_Element.eb5874e8.gif)
+![Queued_Element.gif](_images/ZH_CN/Player/Queued_Element.gif)
 
 ### 无攻击时自动重置队列 (ms) 
 
@@ -179,17 +179,17 @@
 
 ### 启用 
 
-是否启用`自动奔跑`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#自动奔跑)。
+是否启用`自动奔跑`。
 
 - 启用时 角色的行走、奔跑以及跳跃等动作会出现异常。
 
 ### 速度 
 
-调整`自动奔跑`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#自动奔跑)的速度。
+调整`自动奔跑`的速度。
 
 - 范围: 0.01 ~ 1000
 
-![Auto_Run.gif](_images/ZH_CN/Player/Auto_Run.01fad3e2.gif)
+![Auto_Run.gif](_images/ZH_CN/Player/Auto_Run.gif)
 
 ## 命座修改器 
 
@@ -197,7 +197,7 @@
 
 ### 启用 
 
-是否启用`命座修改器`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#命座修改器)。
+是否启用`命座修改器`。
 
 - 至Bkebi-1.0.2起 此功能仅Debug构建。
 - 可能需要在队伍配置让角色重新上场或者切换地图以生效。
@@ -218,7 +218,7 @@
 - 依旧不会处于一直满能量状态 可以积攒能量且使用元素爆发后会被清空。
 - 左侧会强制显示所有角色的充能图标 有可能会显示已充能能量。
 
-![Max_Burst_Energy.png](_images/ZH_CN/Player/Max_Burst_Energy.ba517b5e.png)
+![Max_Burst_Energy.png](_images/ZH_CN/Player/Max_Burst_Energy.png)
 
 ### 减少 战技/爆发 冷却时间 
 
@@ -226,13 +226,13 @@
 
 - 范围: 1 ~ 6
 
-![Reduce_Skill-Burst_Cooldown.gif](_images/ZH_CN/Player/Reduce_Skill-Burst_Cooldown.35fe7e69.gif)
+![Reduce_Skill-Burst_Cooldown.gif](_images/ZH_CN/Player/Reduce_Skill-Burst_Cooldown.gif)
 
 ### 无冲刺冷却时间 
 
 使角色可以无限连续冲刺。
 
-![No_Sprint_Cooldown.gif](_images/ZH_CN/Player/No_Sprint_Cooldown.2092790c.gif)
+![No_Sprint_Cooldown.gif](_images/ZH_CN/Player/No_Sprint_Cooldown.gif)
 
 ### 弓箭瞬间蓄力 
 
@@ -242,7 +242,7 @@
 - 目前会导致菲谢尔无法射出箭矢。
 - 如有角色瞬间蓄力无效 请在 [此Discord频道](https://discord.com/channels/1026295403282436097/1073216872931151922) 上提供反馈。
 
-![Instant_Bow_Charge.gif](_images/ZH_CN/Player/Instant_Bow_Charge.f0d51c18.gif)
+![Instant_Bow_Charge.gif](_images/ZH_CN/Player/Instant_Bow_Charge.gif)
 
 ### 技能日志[调试] 
 
@@ -256,7 +256,7 @@
 
 ### 启用 
 
-是否启用`坠落控制`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#坠落控制)。
+是否启用`坠落控制`。
 
 ### 速度 
 
@@ -264,7 +264,7 @@
 
 - 范围: 0 ~ 100
 
-![Fall-Control.gif](_images/ZH_CN/Player/Fall-Control.ba08501e.gif)
+![Fall-Control.gif](_images/ZH_CN/Player/Fall-Control.gif)
 
 ## 攻击队友 
 
@@ -272,7 +272,7 @@
 
 ### 启用 
 
-是否启用`攻击队友`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#攻击队友)。
+是否启用`攻击队友`。
 
 - 属于实体伤害。
 - 此功能仅Debug构建。
@@ -295,23 +295,23 @@
 
 - 至Bkebi-1.0.3起 此功能无法免疫摔落伤害。
 
-![God_Mode.gif](_images/ZH_CN/Player/God_Mode.558ed655.gif)
+![God_Mode.gif](_images/ZH_CN/Player/God_Mode.gif)
 
 #### 触发条件 
 
-设置启用`无敌模式`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#无敌模式-1)的前置条件。
+设置启用`无敌模式`的前置条件。
 
 #### 最小生命值 
 
-设定百分比超过上场角色生命值百分比时才可触发`无敌模式`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#无敌模式-1)。
+设定百分比超过上场角色生命值百分比时才可触发`无敌模式`。
 
 - 范围: 0.1 ~ 100
 
-![Minimum_Health.png](_images/ZH_CN/Player/Minimum_Health.c4506e85.png)
+![Minimum_Health.png](_images/ZH_CN/Player/Minimum_Health.png)
 
 #### 攻击闪避率 
 
-设定值触发`无敌模式`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#无敌模式-1)的百分比概率。
+设定值触发`无敌模式`的百分比概率。
 
 - 范围 0 ~ 100
 
@@ -323,7 +323,7 @@
 
 免疫摔落伤害。
 
-![No_Fall.gif](_images/ZH_CN/Player/No_Fall.fb474489.gif)
+![No_Fall.gif](_images/ZH_CN/Player/No_Fall.gif)
 
 ## 无限体力 
 
@@ -335,7 +335,7 @@
 
 - 有可能造成无法冲刺、攀爬、飞行等 需要重启游戏以恢复。
 
-![Infinite_Stamina.png](_images/ZH_CN/Player/Infinite_Stamina.b681e172.png)
+![Infinite_Stamina.png](_images/ZH_CN/Player/Infinite_Stamina.png)
 
 #### 阻止上传模式(更安全) 
 
@@ -349,22 +349,22 @@
 
 ### 启用 
 
-是否启用`自由移动`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#自由移动)。
+是否启用`自由移动`。
 
 - 联机时自己会看到队友异常移动。
 - 队友可能不能看到你在空中飞行 而只是在地上行走。
 - 默认按键: `W` - 向前移动 | `S` - 向后移动 | `A` - 向左移动 | `D` - 向右移动 | `Space` - 向上移动(相对角色) | `LCtrl` - 向下移动(相对角色)
 
-![No-Clip.gif](_images/ZH_CN/Player/No-Clip.3ce8b996.gif)
+![No-Clip.gif](_images/ZH_CN/Player/No-Clip.gif)
 
 ### 允许在空中释放技能 
 
 使角色启用自由移动后可以一直保持如站立、坠落、游泳、飞行等动作状态。
 
 - (使角色在空中可以保持站立状态而不会进入坠落状态。)
-- 需要在站立状态下启用`自由移动`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#自由移动)才可以在空中释放技能。
+- 需要在站立状态下启用`自由移动`才可以在空中释放技能。
 
-![No_Animation.png](_images/ZH_CN/Player/No_Animation.8535cdd4.png)
+![No_Animation.png](_images/ZH_CN/Player/No_Animation.png)
 
 ### 速度 
 
@@ -374,11 +374,11 @@
 
 ### 相对相机方向移动 
 
-使用 `W` `S` `A` `D` 或 `自定义按键`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#使用自定义按键) 控制时相对于相机方向 而不是角色朝向。
+使用 `W` `S` `A` `D` 或 `自定义按键` 控制时相对于相机方向 而不是角色朝向。
 
 ### 备用自由移动 
 
-按住 `LCtrl` 或 `自定义按键`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#使用自定义按键) 使用`自由移动`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#自由移动)时不会使用上面的`速度`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#速度-2)而是改用下面的`变速`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#变速)。
+按住 `LCtrl` 或 `自定义按键` 使用`自由移动`时不会使用上面的`速度`而是改用下面的`变速`。
 
 ### 变速 
 
@@ -398,11 +398,11 @@
 
 - 在速度过慢时 你可能无法穿过部分地形。
 
-![Freeflight_mode.gif](_images/ZH_CN/Player/Freeflight_mode.1b51c71e.gif)
+![Freeflight_mode.gif](_images/ZH_CN/Player/Freeflight_mode.gif)
 
 ### 使用自定义按键 
 
-指定`自由移动`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#自由移动)的按键。
+指定`自由移动`的按键。
 
 ### 防拉回 
 
@@ -422,11 +422,11 @@
 
 立即在前方生成一座合成台。
 
-![Spawn_Alchemy_Table.png](_images/ZH_CN/Player/Spawn_Alchemy_Table.cacb46c5.png)
+![Spawn_Alchemy_Table.png](_images/ZH_CN/Player/Spawn_Alchemy_Table.png)
 
 ### 热键 
 
-指定`远程工具`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#远程工具)的按键。
+指定`远程工具`的按键。
 
 ### 自定义请求 
 
@@ -434,9 +434,9 @@
 
 #### 合成ID 
 
-使用指定`合成ID`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#合成ID)执行合成。
+使用指定`合成ID`执行合成。
 
-- 可在`合成表`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/hack/resources/CombineExcelConfigData.html)中的`combineId`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/hack/resources/CombineExcelConfigData.html)列 获取`合成ID`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#合成ID)。
+- 可在`合成表`中的`combineId`列 获取`合成ID`。
 
 #### 数量 
 
@@ -444,6 +444,6 @@
 
 #### 合成 
 
-执行一次指定`数量`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#数量)和`合成ID`(https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html#合成ID)的合成请求。
+执行一次指定`数量`和`合成ID`的合成请求。
 
 - 合成成功会直接进入背包 不会有任何提示。
