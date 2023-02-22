@@ -447,3 +447,7 @@
 执行一次指定`数量`和`合成ID`的合成请求。
 
 - 合成成功会直接进入背包 不会有任何提示。
+
+
+> 参考文档：
+>   * [一篇动漫游戏作弊端的大概收集 & 简单介绍。](https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/01_player.html)
