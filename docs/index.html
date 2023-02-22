@@ -44,75 +44,99 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-	  // 全文搜索
-	  search: {
-		//alias: {
-		//	'.*/_sidebar.md': '/_sidebar.md',
-		//	'.*/README.md': '/README.md',
-		//	'.*/_coverpage.md': '/_coverpage.md',
-		//	'.*/_navbar.md': '/_navbar.md',
-		//	'.*/index.html': '/index.html'
-		//	},
-		maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-		paths: 'auto', // or 'auto'
-		placeholder: {
-			'/': '搜索',
-		  //'/': 'Type to search'
-		},
-		noData: {
-        '/': '找不到结果',
-        //'/': 'No Results'
-		},
-		// 搜索标题的最大层级, 1 - 6
-		depth: 3,
-		hideOtherSidebarContent: true, // 是否隐藏其他侧边栏内容
-		// 避免搜索索引冲突
-		// 同一域下的多个网站之间
-		//namespace: 'website-1',
-		// 使用不同的索引作为路径前缀（namespaces）
-		// 注意：仅适用于 paths: 'auto' 模式
-		//
-		// 初始化索引时，我们从侧边栏查找第一个路径
-		// 如果它与列表中的前缀匹配，我们将切换到相应的索引
-		//pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
-		// 您可以提供一个正则表达式来匹配前缀。在这种情况下，
-		// 匹配到的字符串将被用来识别索引
-		//pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
-		},
-	  // 开启封面
+	    //alias: {
+		  //	'.*/_sidebar.md': '/_sidebar.md',
+		  //	'.*/README.md': '/README.md',
+		  //	'.*/_coverpage.md': '/_coverpage.md',
+		  //	'.*/_navbar.md': '/_navbar.md',
+		  //	'.*/index.html': '/index.html'
+		  //	},
+      
+      // 全文搜索
+	    search: {
+		    maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+		    paths: 'auto', // or 'auto'
+		    placeholder: {
+			    '/': '搜索',
+		      //'/': 'Type to search'
+		      },
+		    noData: {
+          '/': '找不到结果',
+          //'/': 'No Results'
+		      },
+		    // 搜索标题的最大层级, 1 - 6
+		    depth: 3,
+		    hideOtherSidebarContent: true, // 是否隐藏其他侧边栏内容
+		    // 避免搜索索引冲突
+		    // 同一域下的多个网站之间
+		    //namespace: 'website-1',
+		    // 使用不同的索引作为路径前缀（namespaces）
+		    // 注意：仅适用于 paths: 'auto' 模式
+		    //
+		    // 初始化索引时，我们从侧边栏查找第一个路径
+		    // 如果它与列表中的前缀匹配，我们将切换到相应的索引
+		    //pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+		    // 您可以提供一个正则表达式来匹配前缀。在这种情况下，
+		    // 匹配到的字符串将被用来识别索引
+		    //pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
+		  },
+	    
+      // 开启封面
       coverpage: true,
+      
       // 404页面
       //notFoundPage: '404.md',
-	  // 导航栏
-	  loadNavbar: true,
+      
+	    // 导航栏
+	    loadNavbar: true,
+
       // 显示目录
       loadSidebar: true,
+
       subMaxLevel: 3,
+
       // 文档根路径
       basePath: 'https://ghproxy.com/https://raw.githubusercontent.com/Huiaei/Bkebi-Group.github.io/docsify/docs/',
+
       // 最大支持渲染的标题层级
       maxLevel:6,
+
       // 切换页面后是否自动跳转到页面顶部
       auto2top: true,
+
       // 首页文件加载路径
       homepage: 'README.md',
+
       // 启用相对路径
       relativePath: true,
+
       // 网站图标
       logo: 'https://ghproxy.com/https://raw.githubusercontent.com/Huiaei/Bkebi-Group.github.io/docsify/docs/_media/favicon.svg',
+
       // 文档标题
       name: "Bkebi 使用手册",
+
       // 主题色
       themeColor: '#a5cc5a',
+
       // 资源文件扩展名
       ext: '.md',
+
       // 配置仓库地址或者 username/repo 的字符串，会在页面右上角渲染一个 GitHub Corner 挂件
       //repo: '',    
+
       // 阅读进度条
       progress: {
         position: "top",
         color: "var(--theme-color,#42b983)",
         height: "3px",
+      },
+
+      // 文章最后更新时间
+      timeUpdater: {
+        text: ">最后更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
       },
     }
   </script>
