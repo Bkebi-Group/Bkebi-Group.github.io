@@ -1,4 +1,4 @@
-![logo](_media/icon.ico)
+![logo](_media/icon.svg)
 
 # Bkebi 
 
