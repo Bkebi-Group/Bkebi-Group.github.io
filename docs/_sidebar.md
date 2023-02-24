@@ -7,5 +7,6 @@
 * **详细说明及配置**
   * [玩家](Player.md)
   * [世界](World.md)
+  * [传送](Teleport.md)
 * [**虚空终端--Q&A**](QA.md)
 
