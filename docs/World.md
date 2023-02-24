@@ -2,46 +2,6 @@
 
 "`Hallo World`"零基础教程，三分钟从入门到高级(<font color=ffffff>放弃</font>)。
 
-### 立即打开队伍界面
-
-在打开队伍配置时 将不会有2秒的非战斗等待时间。
-
-![Open_Team_Immediately.gif](_images/ZH_CN/World/Open_Team_Immediately.gif)
-
-### 跳过强化
-
-跳过武器和圣遗物的等级提升对话框。
-
-![Skip_Enhance_Animation.gif](_images/ZH_CN/World/Skip_Enhance_Animation.gif)
-
-#### 显示升级信息对话框
-
-显示圣遗物提升到 `+4` `+8` `+12` `+16` `+20` 时的等级提升对话框。
-
-![Show_Level-Up_Dialog_For_Substat_Rolls.png](_images/ZH_CN/World/Show_Level-Up_Dialog_For_Substat_Rolls.png)
-
-### 敌人变傻
-
-所有魔物将不会对玩家发起任何攻击行为。
-
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效。
-
-![Dumb_Enemies.gif](_images/ZH_CN/World/Dumb_Enemies.gif)
-
-### 冻结敌人
-
-停止所有魔物的动作。
-
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效 但在任何情况下你都不会被怪物击中。
-
-![Freeze_Enemies.gif](_images/ZH_CN/World/Freeze_Enemies.gif)
-
-### 永久元素视野
-
-元素视野将保持启用状态。
-
-![Permanent_Elemental_Sight.png](_images/ZH_CN/World/Permanent_Elemental_Sight.png)
-
 ## 自动挑战
 
 > 自动收集元素微粒等挑战道具。
@@ -498,7 +458,7 @@
 
 ### 分
 
-设定`m`.
+设定`m`。
 
 ### 同步到服务器
 
@@ -546,10 +506,6 @@
 - 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master)时生效。
 
 ### 全自动攻击模式? (Use AFK Attack)
-
-
-
-
 
 ### 坠落伤害模式
 
@@ -745,3 +701,46 @@
   - 生物: `晶核` `兽肉` `螃蟹` `鳗鳗` `蜥蜴尾巴` `鱼肉`
   - 矿物: `紫晶矿掉落` `水晶矿掉落` `电气水晶掉落` `铁矿掉落` `夜泊石掉落` `魔晶块掉落` `深赤之石掉落` `星银矿石掉落` `白铁块掉落`
   - 植物: `苹果` `卷心菜` `胡萝卜掉落` `土豆` `白萝卜掉落` `日落果` `小麦`
+
+## 其他
+
+### 立即打开队伍界面
+
+在打开队伍配置时 将不会有2秒的非战斗等待时间。
+
+![Open_Team_Immediately.gif](_images/ZH_CN/World/Open_Team_Immediately.gif)
+
+### 跳过强化
+
+跳过武器和圣遗物的等级提升对话框。
+
+![Skip_Enhance_Animation.gif](_images/ZH_CN/World/Skip_Enhance_Animation.gif)
+
+#### 显示升级信息对话框
+
+显示圣遗物提升到 `+4` `+8` `+12` `+16` `+20` 时的等级提升对话框。
+
+![Show_Level-Up_Dialog_For_Substat_Rolls.png](_images/ZH_CN/World/Show_Level-Up_Dialog_For_Substat_Rolls.png)
+
+### 敌人变傻
+
+所有魔物将不会对玩家发起任何攻击行为。
+
+- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效。
+
+![Dumb_Enemies.gif](_images/ZH_CN/World/Dumb_Enemies.gif)
+
+### 冻结敌人
+
+停止所有魔物的动作。
+
+- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效 但在任何情况下你都不会被怪物击中。
+
+![Freeze_Enemies.gif](_images/ZH_CN/World/Freeze_Enemies.gif)
+
+### 永久元素视野
+
+元素视野将保持启用状态。
+
+![Permanent_Elemental_Sight.png](_images/ZH_CN/World/Permanent_Elemental_Sight.png)
+

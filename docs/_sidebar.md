@@ -3,6 +3,7 @@
   * [配置](Configure.md)
   * [更新 Bkebi](UpdateBkebi.md)
   * [Bkebi 目录文件介绍](BkebiFileTree.md)
+  * [Bkebi 黑名单](BlackList.md)
 * **详细说明及配置**
   * [玩家](Player.md)
   * [世界](World.md)
