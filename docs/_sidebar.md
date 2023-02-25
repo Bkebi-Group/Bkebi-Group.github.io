@@ -10,5 +10,6 @@
   * [传送](Teleport.md)
   * [透视](ESP.md)
   * [视图](Visuals.md)
+  * [设置](Settings.md)
 * [**虚空终端--Q&A**](QA.md)
 * [**Json传送**](JSON_Teleport.md)
