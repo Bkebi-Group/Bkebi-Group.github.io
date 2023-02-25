@@ -126,10 +126,7 @@
 
 > 自动摧毁非生物类物体。
 
-:::warning
-使用此功能可能会面临风险。
-:::
-
+- <font color=ffffff>使用此功能可能会面临风险。</font>
 ### 启用
 
 是否启用[<font>**`自动摧毁物体`**</font>](#自动摧毁物体)。
@@ -185,10 +182,7 @@
 
 > 自动收集材料、宝箱、神瞳等各种物品。
 
-:::warning
-使用此功能可能会面临风险。
-:::
-
+- <font color=ffffff>使用此功能可能会面临风险。</font>
 ### 自动拾取
 
 自动拾取掉落物、材料等。
@@ -395,10 +389,7 @@
 
 > 自动收集周围的树木。
 
-:::warning
-使用此功能可能会面临风险。
-:::
-
+- <font color=ffffff>使用此功能可能会面临风险。</font>
 ### 启用
 
 是否启用[<font>**`自动砍树`**</font>](#自动砍树)。
@@ -527,10 +518,7 @@
 
 > 加快游戏所有机制的速度。
 
-:::warning
-使用此功能可能会面临风险。
-:::
-
+- <font color=ffffff>使用此功能可能会面临风险。</font>
 ### 启用
 
 是否启用[<font>**`全局加速`**</font>](#全局加速)。
@@ -567,9 +555,7 @@
 
 ### 全自动攻击模式? (Use AFK Attack)
 
-???
-
-- ???<font color=ffffff>使用此功能可能会面临风险。???</font>
+- <font color=ffffff>使用此功能可能会面临风险。</font>
 
 ### 坠落伤害模式
 
@@ -711,7 +697,7 @@
 
 自定义替换后的`生物ID`。
 
-- 可在[<font>**`GM表`**</font>](/hack/resources/GM_Handbook)中获取`生物ID`。
+- 可在[<font>**`GM表`**</font>](https://github.com/ahalpha/Anime_Game_Ha-k_Docs/blob/gh-pages/hack/resources/GM_Handbook.txt)中获取`生物ID`。
 
 - 范围: `1 ~ 1000000000`
 
