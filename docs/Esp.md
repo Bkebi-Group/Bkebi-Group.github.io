@@ -8,11 +8,11 @@
 
 #### 启用透视
 
-是否启用[<font>**`透视`**</font>](#透视)。
+是否启用`透视`。
 
 #### 范围 (米)
 
-设定[<font>**`透视`**</font>](#透视)的有效范围。
+设定`透视`的有效范围。
 
 范围: `1 ~ 200`
 
@@ -22,7 +22,7 @@
 
 - 可选择: `无` `矩形` `盒子` `四角盒子`
 
-![Draw_Mode.png](_images/ZH_CN/Esp/Draw_Mode.png)
+![Draw_Mode.png](_images/ZH_CN/ESP/Draw_Mode.png)
 
 #### 追踪模式
 
@@ -30,23 +30,23 @@
 
 - 可选择: `无` `线` `离屏箭头`
 
-![Tracer_Mode.png](_images/ZH_CN/Esp/Tracer_Mode.png)
+![Tracer_Mode.png](_images/ZH_CN/ESP/Tracer_Mode.png)
 
 #### 填充 边框/长方形/箭头
 
 将会填充`边框`、`长方形`与`箭头`。
 
-![Fill_Box-Rectangle-Arrows.png](_images/ZH_CN/Esp/Fill_Box-Rectangle-Arrows.png)
+![Fill_Box-Rectangle-Arrows.png](_images/ZH_CN/ESP/Fill_Box-Rectangle-Arrows.png)
 
 #### 填充透明度
 
-更改[<font>**`填充 边框/长方形/箭头`**</font>](#填充-边框-长方形-箭头)的透明度。
+更改`填充 边框/长方形/箭头`的透明度。
 
 #### 设置追踪点为屏幕中心
 
 将`线`追踪从屏幕中间开始 而不是从角色底部。
 
-![Middle_Screen_Tracer.png](_images/ZH_CN/Esp/Middle_Screen_Tracer.png)
+![Middle_Screen_Tracer.png](_images/ZH_CN/ESP/Middle_Screen_Tracer.png)
 
 #### 显示名称
 
@@ -60,7 +60,7 @@
 
 是否显示绘制对象的生命值。
 
-![Draw_Name-Distance-Health.png](_images/ZH_CN/Esp/Draw_Name-Distance-Health.png)
+![Draw_Name-Distance-Health.png](_images/ZH_CN/ESP/Draw_Name-Distance-Health.png)
 
 #### 隐藏已完成的解密
 
@@ -140,5 +140,6 @@
 ### 解密
 
 - 可选择: `雪山大冰矿` `狸猫` `蓬蓬果` `解谜魔方` `八块石板` `电气传导` `雷灵` `元素方碑` `恒光元件` `风史莱姆` `岩种子` `岩方碑` `神秘的壁画` `大岩石` `雷霆探针` `发光的地板解谜` `流明原石` `流明仙灵` `小船(暂)` `荒野中的苗圃` `淤泥涌口` `幻梦之门` `海盗船指针(清籁丸)` `压力石板` `元能火种` `元能尖碑` `元能沙钟` `聚电石` `能量提取装置` `键纹锁` `仙灵` `仙灵座` `小石碓` `石柱封印` `风屏障` `须弥解密` `剑柄` `手鞠` `死域` `限时收集挑战` `火炬解谜` `三相众物` `奇特的岩石` `温暖仙灵` `风车`
+
 > 参考文档：
 >   * [一篇动漫游戏作弊端的大概收集 & 简单介绍。](https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/04_esp.html)
