@@ -1,9 +1,17 @@
-* **快速上手**
-  * [快速开始](QuickStart.md)
-  * [配置](Configure.md)
-  * [更新 Bkebi](UpdateBkebi.md)
-  * [Bkebi 目录文件介绍](BkebiFileTree.md)
-* **详细说明及配置**
-  * [玩家](Player.md)
-* [**虚空终端--Q&A**](QA.md)
-
+* **🌱快速上手**
+  * [😇快速开始](QuickStart.md)
+  * [💾配置](Configure.md)
+  * [📤更新 Bkebi](UpdateBkebi.md)
+  * [📑Bkebi 目录文件介绍](BkebiFileTree.md)
+* **🧐详细说明及配置**
+  * [⭐️玩家](Player.md)
+  * [🌏世界](World.md)
+  * [✈️传送](Player.md)
+  * [👀透视](Player.md)
+  * [🕶视图](Player.md)
+  * [🛠设置](Player.md)
+  * [🔗其他](Player.md)
+  * [⌨️热键](Player.md)
+  * [🗃调试](Player.md)
+  * [🕯更多界面](Player.md)
+* [**❓虚空终端--Q&A**](QA.md)
