@@ -1,9 +1,12 @@
-* **快速上手**
+* [**Bkebi 黑名单**](BlackList.md)
+* [**快速上手**](QuickStart.md)
   * [快速开始](QuickStart.md)
   * [配置](Configure.md)
   * [更新 Bkebi](UpdateBkebi.md)
   * [Bkebi 目录文件介绍](BkebiFileTree.md)
 * **详细说明及配置**
   * [玩家](Player.md)
+  * [世界](World.md)
+  * [传送](Teleport.md)
 * [**虚空终端--Q&A**](QA.md)
-
+* [**Json传送**](JSON_Teleport.md)
