@@ -2,48 +2,6 @@
 
 更改部分与显示有关的内容。
 
-### 宝箱指示器
-
-强制启用大部分宝箱的指示机制。
-
-![Show_Chest_Indicator.png](_images/ZH_CN/Visuals/Show_Chest_Indicator.png)
-
-### 显示技能冷却
-
-在右侧显示元素战技的技能冷却时间与其可用次数。
-
-- 多人游戏下不可看见队友的技能冷却情况。
-
-![Show_Skill_Cooldowns.gif](_images/ZH_CN/Visuals/Show_Skill_Cooldowns.gif)
-
-### 去雾
-
-去除所有迷雾。
-
-![No_fog.png](_images/ZH_CN/Visuals/No_fog.png)
-
-### 隐藏界面
-
-隐藏一些游戏界面 包括游戏中界面与派蒙界面。
-
-- 可能会导致一些会暂停游戏的界面中画面异常 此时需要关闭此项。
-
-![Hide_UI.png](_images/ZH_CN/Visuals/Hide_UI.png)
-
-### 反虚化
-
-使被摄像机靠近的角色不会被虚化。
-
-![Enable_Peeking.png](_images/ZH_CN/Visuals/Enable_Peeking.png)
-
-### 派蒙跟随
-
-使派蒙在菜单关闭后不会被隐藏。
-
-- 传送后可能会使派蒙消失 需要重新打开和关闭一次菜单。
-
-- 多人游戏下队友不可见。
-
 ## 动画修改器
 
 可自定义播放角色的指定动画。
