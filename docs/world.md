@@ -24,7 +24,7 @@
 
 所有魔物将不会对玩家发起任何攻击行为。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/hack/resources/CO-OP_Master)时生效。
+- 多人游戏下仅限成为<font>**`房主`**</font>时生效。
 
 ![Dumb_Enemies.gif](_images/ZH_CN/World/Dumb_Enemies.gif)
 
@@ -32,7 +32,7 @@
 
 停止所有魔物的动作。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/hack/resources/CO-OP_Master)时生效 但在任何情况下你都不会被怪物击中。
+- 多人游戏下仅限成为<font>**`房主`**</font>时生效 但在任何情况下你都不会被怪物击中。
 
 ![Freeze_Enemies.gif](_images/ZH_CN/World/Freeze_Enemies.gif)
 
@@ -535,7 +535,7 @@
 
 是否启用[<font>**`全局加速`**</font>](#全局加速)。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/hack/resources/CO-OP_Master)时生效。
+- 多人游戏下仅限成为<font>**`房主`**</font>时生效。
 
 - 多人游戏生效情况下 魔物在队友眼里行为异常 且速度超过`4`后可能无法击中队友。
 
@@ -563,7 +563,7 @@
 
 - 一共两种模式: [<font>**`坠落伤害模式`**</font>](#坠落伤害模式)和[<font>**`即死模式`**</font>](#即死模式)。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/hack/resources/CO-OP_Master)时生效。
+- 多人游戏下仅限成为<font>**`房主`**</font>时生效。
 
 ### 全自动攻击模式? (Use AFK Attack)
 
@@ -699,7 +699,7 @@
 
 - 多人游戏下替换后的生物模型仅自己可见 其他玩家仅能看到替换前的模型。
 
-- 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/hack/resources/CO-OP_Master)时能替换怪物的攻击与技能。
+- 多人游戏下仅限成为<font>**`房主`**</font>时能替换怪物的攻击与技能。
 
 ![Monster_Changer.png](_images/ZH_CN/World/Monster_Changer.png)
 
