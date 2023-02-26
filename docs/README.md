@@ -73,3 +73,5 @@
 * [Docsify](https://docsify.js.org/)
 
 * [Bkebi 中文使用图文教程 1.0](https://www.kdocs.cn/l/csNDRjijraFk)
+
+* [一篇动漫游戏作弊端的大概收集 & 简单介绍。](https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc)
