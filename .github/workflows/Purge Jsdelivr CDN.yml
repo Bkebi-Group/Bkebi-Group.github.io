@@ -3,8 +3,6 @@ name: Purge Jsdelivr CDN
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 jobs:
   Purge-Jsdelivr-CDN:
