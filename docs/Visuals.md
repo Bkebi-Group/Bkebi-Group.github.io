@@ -857,7 +857,3 @@ FoV，镜头的可视范围。
 
 - 风之翼纹理。      
 示例路径: C:IGlider.png
-
-
-> 参考文档：
->   * [一篇动漫游戏作弊端的大概收集 & 简单介绍。](https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/05_visuals.html)

@@ -229,6 +229,3 @@
 ### 传送快捷键
 
 - 设定的快捷键为 `None` 时 <font>**`任务点传送`**</font>将无法生效。
-
-> 参考文档：
->   * [一篇动漫游戏作弊端的大概收集 & 简单介绍。](https://ahalpha.github.io/Anime_Game_Ha-k_Docs/cheat/bkebi-gc/03_teleport.html)

@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg ':size=20%')
 
-# Bkebi 
+# Bkebi 文档
 
 <p align="center">
 	<a href="https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/latest"><img src="https://img.shields.io/github/v/release/Bkebi-Group/Bkebi-GC-Release?style=for-the-badge"></a>
