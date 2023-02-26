@@ -7,7 +7,7 @@
   * [⭐️玩家](Player.md)
   * [🌏世界](World.md)
   * [✈️传送](Teleport.md)
-  * [👀透视](Esp.md)
+  * [👀透视](ESP.md)
   * [🕶视图](Visuals.md)
   * [🛠设置](Settings.md)
   * [🔗其他](Others.md)
