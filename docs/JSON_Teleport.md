@@ -1,9 +1,11 @@
-# JSON传送
+# 自定义传送传送
 
-> 与JSON传送有关的相关资料。    
-你也可以在我们的[Discord](https://discord.com/channels/1026295403282436097/1064953611056058479)频道分享你的json
+> 与自定义传送传送有关的相关资料。    
+你也可以在我们的[Discord](https://discord.com/channels/1026295403282436097/1064953611056058479)频道分享你的bpfc文件
 
-### 第三方文件
+注意：新版将不支持旧版本传送，但是会公开一个将旧版转成新版文件的转换器，同时文件格式将不再是json，而是加密过的bpfc
+
+### 第三方文件(旧版)
 
 - [#整合收集] [ (@Xcating) Json_Integration](https://github.com/Xcating/Json_Integration)
 
