@@ -4,7 +4,7 @@
 >  * [Bkebi 中文使用图文教程 1.0](https://www.kdocs.cn/l/csNDRjijraFk)
 >  * [Bkebi Discord 群组公告频道](https://discord.com/channels/1026295403282436097/1064766036714471465/1077543930721210419)
 
----
+
 ## 一般问题
 
 ##### Q：Bkebi与Acrepi、Akebi有区别吗?

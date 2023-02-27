@@ -1,6 +1,6 @@
 # 世界
 
-"`Hallo World`"零基础教程，三分钟从入门到高级(<font color=ffffff>放弃</font>)。
+> "`Hallo World`"零基础教程，三分钟从入门到高级(<font color=ffffff>放弃</font>)。
 
 ## 自动挑战
 
