@@ -1,6 +1,6 @@
 # 设置
 
-bkebi的设置
+> bkebi的设置
 ## 欺骗反作弊结果
 
 - 欺骗/屏蔽WindSeedClientNotify的反作弊报告。
@@ -94,7 +94,7 @@ _主题保存在themes文件夹下_
 
 - 显示ImGui主题定制 `打开ImGui窗口`
 
-- 详见[IMGUI](Imgui.md)
+- 详见[IMGUI](https://github.com/ocornut/imgui/wiki)
 
 ## 账号切换器
 

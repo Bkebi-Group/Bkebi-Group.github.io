@@ -12,6 +12,6 @@
   * [🛠设置](Settings.md)
   * [⌨️热键](Hotkeys.md)
   * [🗃调试](Debug.md)
-* [**❓虚空终端--Q&A**](QA.md)
+* [**❓虚空终端-Q&A**](QA.md)
 * [**✈️Json传送**](JSON_Teleport.md)
-* [**🚫Bkebi 黑名单**](BlackList.md)
+* [**🚫Bkebi 小黑屋**](BlackList.md)
