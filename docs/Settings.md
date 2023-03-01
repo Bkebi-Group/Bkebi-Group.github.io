@@ -1,6 +1,9 @@
 # 设置
 
 > bkebi的设置
+
+------
+
 ## 欺骗反作弊结果
 
 - 欺骗/屏蔽WindSeedClientNotify的反作弊报告。
@@ -10,6 +13,8 @@
 
 > 如果你不知道这两个是什么意思请不要修改它，除非你想这个号上封神榜
 
+------
+
 ## 语言
 
 修改bkebi界面语言
@@ -17,6 +22,8 @@
 - 可选：`EN` `ZH` `RU`
 
 _更多翻译&反馈翻译问题可以在[这里](https://github.com/Bkebi-Group/Bkebi-Language/blob/main/README-CHS.md)提交_
+
+------
 
 ## 通用
 
