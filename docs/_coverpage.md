@@ -14,6 +14,5 @@
 - 自定义主题
 - 强大的功能
 
-[立即获取](https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/latest)
-[加入 Discord 群组](https://discord.gg/bkebi)
+
 [开始教程指引](#main)
