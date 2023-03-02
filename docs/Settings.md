@@ -6,20 +6,35 @@
 
 ## 欺骗反作弊结果
 
-- 欺骗/屏蔽WindSeedClientNotify的反作弊报告。
+> 欺骗/屏蔽WindSeedClientNotify的反作弊报告。
 
 ## 关闭保护
-- 关闭mhyprot2句柄(更改将在重新启动后生效
 
-> 如果你不知道这两个是什么意思请不要修改它，除非你想这个号上封神榜
+> 关闭mhyprot2句柄（更改将在重新启动后生效）
+
+_如果你不知道这两个选项是什么意思请不要修改它，除非你想这个号上封神榜_
+
+------
+
+## 禁止Metrics输出
+
+> 不在控制台中输出Metrics库的垃圾信息。
+
+- 更改将在游戏重新启动后生效。
 
 ------
 
 ## 语言
 
-修改bkebi界面语言
+> 修改bkebi界面语言
 
-- 可选：`EN` `ZH` `RU`
+- 可选择:
+  - `English | EN (DEBUG)`
+  - `Indonesian | ID`
+  - `Russian | RU`
+  - `Simplified Chinese | ZH-CN`
+  - `Traditional Chinese | ZH-TW`
+  - `English | EN`
 
 _更多翻译&反馈翻译问题可以在[这里](https://github.com/Bkebi-Group/Bkebi-Language/blob/main/README-CHS.md)提交_
 
@@ -29,26 +44,31 @@ _更多翻译&反馈翻译问题可以在[这里](https://github.com/Bkebi-Group
 
 ### 显示Bkebi菜单按键
 
-- 开关Bkebi菜单的按键，不能为空。
-如果你忘记了该热键，你可以在你的配置文件中看到或设置它。
+> 开关Bkebi菜单的按键，不能为空。
+
+- 如果忘记了按键 则需要去根目录配置文件`cfg.json`里搜索`MenuKey` 然后找到并删除`"MenuKey": {num},`({num}为任意数值) 之后启动游戏 按 `F1` 即可打开菜单。
 
 ### 命令行参数
 
-- 使用命令行参数运行游戏
+> 使用命令行参数运行游戏
 
 ### 添加的DLL
 
-- 注入一个额外的Dll到Bkebi DI中
+> 注入一个额外的Dll
 
 ### 启用热键
 
-- 启用快捷键
+> 是否启用除显示`Bkebi菜单按键`外的所有Bkebi-GC快捷键。
+
+------
 
 ## 日志
 
 - 控制台日志 `启用控制台以记录信息(更改将在游戏重新启动后生效)`
 
 - 文件日志 `启用文件记录(更改将在游戏重新启动后生效)，将在应用程序目录中创建-个用于记录的文件夹。`
+
+------
 
 ## 状态窗口
 
@@ -80,9 +100,12 @@ _更多翻译&反馈翻译问题可以在[这里](https://github.com/Bkebi-Group
 
 ![Fps.png](_images\ZH_CN\Settings\Fps.png)
 
+------
+
 ## 显示通知
 
-- 显示窗口右下角的通知。
+> 用于显示快捷键是否启用或关闭功能以及提示其他信息。
+
 - 通知之间的延迟(单位:毫秒)
 
 ## 快速退出
