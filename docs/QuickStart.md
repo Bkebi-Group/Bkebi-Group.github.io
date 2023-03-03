@@ -1,7 +1,5 @@
 # 快速开始
 
-
-
 ## 下载程序
 
 首先你需要下载 Bkebi 的本体程序，前往[这个链接](https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/latest)可以获取最新的版本，点击结尾为`tar.xz` 的链接进行下载。`tar.xz`是一个压缩格式，所以你需要一个解压软件进行解压，因软件不同，你可能需要解压两次。最终你找到下面两个文件：
@@ -27,8 +25,23 @@
 2. 第一次使用需要指定游戏程序路径，请在弹出的“Select genshin path”中选择路径。
    > 一般情况下，原神游戏文件夹处于启动器文件夹中“Genshin Impact Game”中，国服请在里面找到 Yuanshen.exe 选择并确认，国际服的名称应该选择 GenshinImpact.exe 
 
-3. 选择完成后就会自行加载并进入游戏。
+3. 在这里取得你的HWID
 
+![HWID.png](_images\ZH_CN\HWID.png ':size=50%')
+
+4. 前往[Discord#keygen](https://discord.com/channels/1026295403282436097/1079048003001782342)使用/generate free
+
+![HELP_ENTER_HWID.jpg](_images\ZH_CN\HELP_ENTER_HWID.jpg)
+
+5. 取得你的密钥文件并放置在libstdimpact.dll同目录
+
+![HELP_DOWNLOAD_LIC.jpg](_images\ZH_CN\HELP_DOWNLOAD_LIC.jpg)
+
+![HELP_LIC_PLACEMENT.jpg](_images\ZH_CN\HELP_LIC_PLACEMENT.jpg)
+
+3. 然后点击`Retry`即可进入游戏。
+
+![RESTART.png](_images\ZH_CN\RESTART.png)
 
 
 ## 使用建议
