@@ -7,9 +7,6 @@ fetch(`https://api.github.com/repos/${owner}/${repo}/releases/latest`)
     console.log(`%c Bkebi GC %c ${tag_name} %c https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/latest`, "color: #fff; background: #5f5f5f", "color: #fff; background: #4bc729", "")
      });
 
-function donothing() {}
-setTimeout(donothing,1000)
-
 let url = "https://img.shields.io/github/downloads/Bkebi-Group/Bkebi-GC-Release/total.json";
 
 fetch(url)
