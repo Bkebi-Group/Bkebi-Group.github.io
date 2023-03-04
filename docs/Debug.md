@@ -1,7 +1,8 @@
 # 调试
 
 > 这里是帮助开发者调试Bkebi的页面
-- ## Entity Manager
-- ## Position
-- ## Map Manager
-- ## FPS Graph
+## 实体管理器
+## 坐标位置
+## 地图管理器
+## 帧率曲线
+## Lua执行器
