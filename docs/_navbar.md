@@ -1,0 +1,3 @@
+- Languages / 语言
+  - [:cn: 简体中文](/)
+  - [:us: English](/en_US/)

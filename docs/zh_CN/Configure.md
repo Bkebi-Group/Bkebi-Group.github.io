@@ -6,13 +6,13 @@
 
 开启辅助后在功能界面的左上方切换配置
 
-![](_images/ZH_CN/ConfigureSwitch.png "切换配置")
+![](_images/QuickStart/ConfigureSwitch.png "切换配置")
 
 ## 绑定
 
 如果您不想每一次上号都进行一次切换配置，那么您可以对配置文件进行绑定
 
-![](_images/ZH_CN/ConfigureBinding.png)
+![](_images/QuickStart/ConfigureBinding.png)
 
 ## 配置模板
 

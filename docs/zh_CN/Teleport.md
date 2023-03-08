@@ -8,7 +8,7 @@
 
 > 检查周围选定宝箱或见闻的有效点位并传送。
 
-![Chest_Teleport.png](_images/ZH_CN/Teleport/Chest_Teleport.png)
+![Chest_Teleport.png](_images/Teleport/Chest_Teleport.png)
 
 ### 就近传送
 
@@ -174,7 +174,7 @@
 
 > 在地图上使用`鼠标左击`一键传送。
 
-![Map_Teleport.png](_images/ZH_CN/Teleport/Map_Teleport.png)
+![Map_Teleport.png](_images/Teleport/Map_Teleport.png)
 
 ### 启用
 
@@ -203,7 +203,7 @@
 
 > 检查周围神瞳的有效点位并传送。
 
-![Oculi_Teleport.png](_images/ZH_CN/Teleport/Oculi_Teleport.png)
+![Oculi_Teleport.png](_images/Teleport/Oculi_Teleport.png)
 
 ### 就近传送
 
@@ -225,7 +225,7 @@
 
 > 按下快捷键快速传送到任务追踪目标。
 
-![Quest_Teleport.png](_images/ZH_CN/Teleport/Quest_Teleport.png)
+![Quest_Teleport.png](_images/Teleport/Quest_Teleport.png)
 
 ### 任务点传送
 

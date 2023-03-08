@@ -21,25 +21,25 @@
       href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css"
       title="vue"
     />
-    <link
+  <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify/themes/dark.css"
       title="dark"
       disabled
     />
-    <link
+  <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify/themes/buble.css"
       title="buble"
       disabled
     />
-    <link
+  <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify/themes/pure.css"
       title="pure"
       disabled
     />
-    <link
+  <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify/themes/dolphin.css"
       title="dolphin"
@@ -49,14 +49,23 @@
 <body>
   <div id="app"></div>
   <script>
+    // Set html "lang" attribute based on URL
+    //  var lang = location.hash.match(/#\/(en|es|ru-ru|zh-cn)\//);
+    //  if (lang) {
+    //    document.documentElement.setAttribute('lang', lang[1]);
+    //    }
     window.$docsify = {
-	    //alias: {
-		  //	'.*/_sidebar.md': '/_sidebar.md',
-		  //	'.*/README.md': '/README.md',
-		  //	'.*/_coverpage.md': '/_coverpage.md',
-		  //	'.*/_navbar.md': '/_navbar.md',
-		  //	'.*/index.html': '/index.html'
-		  //	},
+	    alias: {
+        '/_navbar.md': 
+          'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/_navbar.md',
+        '/en_US/(.*)':
+          'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/en_US/$1',
+		  	},
+
+      nameLink: {
+          '/en_US/': '/en_US/',
+          '/': '/',
+        },
       
       // 全文搜索
 	    search: {
@@ -64,11 +73,11 @@
 		    paths: 'auto', // or 'auto'
 		    placeholder: {
 			    '/': '搜索',
-		      //'/': 'Type to search'
+		      '/en_US/': 'Type to search'
 		      },
 		    noData: {
           '/': '找不到结果',
-          //'/': 'No Results'
+          '/en_US/': 'No Results'
 		      },
 		    // 搜索标题的最大层级, 1 - 6
 		    depth: 3,
@@ -88,7 +97,10 @@
 		  },
 	    
       // 开启封面
-      coverpage: true,
+      coverpage: {
+        '/': '_coverpage.md',
+        '/en_US/': '_coverpage.md'
+        },
       
       // 404页面
       //notFoundPage: '404.md',
@@ -102,7 +114,7 @@
       subMaxLevel: 2,
 
       // 文档根路径
-      basePath: 'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/',
+      basePath: 'https://cdn.jsdelivr.net/gh/Bkebi-Group/Bkebi-Group.github.io/docs/zh_CN/',
 
       // 最大支持渲染的标题层级
       maxLevel:6,
