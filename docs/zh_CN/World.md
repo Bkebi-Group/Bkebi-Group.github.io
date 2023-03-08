@@ -10,19 +10,19 @@
 
 在打开队伍配置时 将不会有2秒的非战斗等待时间。
 
-![Open_Team_Immediately.gif](_images/ZH_CN/World/Open_Team_Immediately.gif)
+![Open_Team_Immediately.gif](_images/World/Open_Team_Immediately.gif)
 
 ### 跳过强化动画
 
 跳过武器和圣遗物的等级提升对话框。
 
-![Skip_Enhance_Animation.gif](_images/ZH_CN/World/Skip_Enhance_Animation.gif)
+![Skip_Enhance_Animation.gif](_images/World/Skip_Enhance_Animation.gif)
 
 #### 显示升级信息对话框
 
 显示圣遗物提升到 `+4` `+8` `+12` `+16` `+20` 时的等级提升对话框。
 
-![Show_Level-Up_Dialog_For_Substat_Rolls.png](_images/ZH_CN/World/Show_Level-Up_Dialog_For_Substat_Rolls.png)
+![Show_Level-Up_Dialog_For_Substat_Rolls.png](_images/World/Show_Level-Up_Dialog_For_Substat_Rolls.png)
 
 ### 敌人变傻
 
@@ -30,7 +30,7 @@
 
 - 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效。
 
-![Dumb_Enemies.gif](_images/ZH_CN/World/Dumb_Enemies.gif)
+![Dumb_Enemies.gif](_images/World/Dumb_Enemies.gif)
 
 ### 冻结敌人
 
@@ -38,13 +38,13 @@
 
 - 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master.md)时生效 但在任何情况下你都不会被怪物击中。
 
-![Freeze_Enemies.gif](_images/ZH_CN/World/Freeze_Enemies.gif)
+![Freeze_Enemies.gif](_images/World/Freeze_Enemies.gif)
 
 ### 永久元素视野
 
 元素视野将保持启用状态。
 
-![Permanent_Elemental_Sight.png](_images/ZH_CN/World/Permanent_Elemental_Sight.png)
+![Permanent_Elemental_Sight.png](_images/World/Permanent_Elemental_Sight.png)
 
 -----
 
@@ -56,7 +56,7 @@
 
 是否启用`自动挑战`。
 
-![Auto_Challenge.gif](_images/ZH_CN/World/Auto_Challenge.gif)
+![Auto_Challenge.gif](_images/World/Auto_Challenge.gif)
 
 ### 引爆炸药桶
 
@@ -64,7 +64,7 @@
 
 - 风险未知！
 
-![Destroy_Bomb.gif](_images/ZH_CN/World/Destroy_Bomb.gif)
+![Destroy_Bomb.gif](_images/World/Destroy_Bomb.gif)
 
 ### 自定义挑战
 
@@ -98,13 +98,13 @@
 
 是否启用`自动烹饪`。
 
-![Auto_Cook.gif](_images/ZH_CN/World/Auto_Cook.gif)
+![Auto_Cook.gif](_images/World/Auto_Cook.gif)
 
 ### 快速熟练
 
 尽可能快速的将一份未解锁自动烹饪的食物解锁自动烹饪。
 
-![Fast_Proficiency.gif](_images/ZH_CN/World/Fast_Proficiency.gif)
+![Fast_Proficiency.gif](_images/World/Fast_Proficiency.gif)
 
 ### 质量
 
@@ -135,7 +135,7 @@
 
 设定`自动摧毁物体`的生效范围。
 
-![Auto_Destroy_Objects.gif](_images/ZH_CN/World/Auto_Destroy_Objects.gif)
+![Auto_Destroy_Objects.gif](_images/World/Auto_Destroy_Objects.gif)
 
 ------
 
@@ -147,7 +147,7 @@
 
 是否启用`自动钓鱼`。
 
-![Auto_Fish.gif](_images/ZH_CN/World/Auto_Fish.gif)
+![Auto_Fish.gif](_images/World/Auto_Fish.gif)
 
 ### 重新抛竿
 
@@ -167,7 +167,7 @@
 
 - 类似于自动按 `F` 。
 
-![Auto-Pickup.gif](_images/ZH_CN/World/Auto-Pickup.gif)
+![Auto-Pickup.gif](_images/World/Auto-Pickup.gif)
 
 #### 当背包上限时自动关闭
 
@@ -177,7 +177,7 @@
 
 自动交互选定事件。
 
-![Auto-Treasure.gif](_images/ZH_CN/World/Auto-Treasure.gif)
+![Auto-Treasure.gif](_images/World/Auto-Treasure.gif)
 
 - 可选类型: 
   - `宝箱` 普通的宝箱、珍贵的宝箱、华丽的宝箱等。
@@ -194,7 +194,7 @@
 - 宝箱等交互类事件不会显示在拾取列表 但是可以通过`自动交互`拾取到。
 - 若需要同时开启`自动拾取`或者`自动交互` 请确保在这两者之后开启`范围拾取` 否则设定范围内的物品可能无法被自动拾取。
 
-![Custom_Pickup_Range.png](_images/ZH_CN/World/Custom_Pickup_Range.png)
+![Custom_Pickup_Range.png](_images/World/Custom_Pickup_Range.png)
 
 ### 拾取速度
 
@@ -257,7 +257,7 @@
 
 触碰一次仙灵即可使其归位。
 
-![Auto_Seelie.png](_images/ZH_CN/World/Auto_Seelie.png)
+![Auto_Seelie.png](_images/World/Auto_Seelie.png)
 
 ### 自动雷灵
 
@@ -265,7 +265,7 @@
 
 - 生效范围为100米。
 
-![Auto_Electro_seelie.png](_images/ZH_CN/World/Auto_Electro_seelie.png)
+![Auto_Electro_seelie.png](_images/World/Auto_Electro_seelie.png)
 
 ------
 
@@ -295,7 +295,7 @@
 
 与凯瑟琳/壶灵/铁匠对话时 不会自动选择对话选项。
 
-![Exclude_Katheryne-Tubby-Wagner.png](_images/ZH_CN/World/Exclude_Katheryne-Tubby-Wagner.png)
+![Exclude_Katheryne-Tubby-Wagner.png](_images/World/Exclude_Katheryne-Tubby-Wagner.png)
 
 ### 对话加速
 
@@ -343,7 +343,7 @@
 
 设定`自动砍树`生效范围。
 
-![Auto_Tree_Farm.gif](_images/ZH_CN/World/Auto_Tree_Farm.gif)
+![Auto_Tree_Farm.gif](_images/World/Auto_Tree_Farm.gif)
 
 ------
 
@@ -482,7 +482,7 @@
 
 指定击杀次数推断造成的伤害数值进行攻击。
 
-![Crash_Damage_Mode.gif](_images/ZH_CN/World/Crash_Damage_Mode.gif)
+![Crash_Damage_Mode.gif](_images/World/Crash_Damage_Mode.gif)
 
 ### 即死模式
 
@@ -494,7 +494,7 @@
 
 - 可能会与无相系列与恒常机关阵列等BOSS发生冲突。
 
-![Instant_Death_Mode.gif](_images/ZH_CN/World/Instant_Death_Mode.gif)
+![Instant_Death_Mode.gif](_images/World/Instant_Death_Mode.gif)
 
 ### 伤害间隔延迟(毫秒)
 
@@ -524,7 +524,7 @@
 
 - 多人游戏下大部分吸附效果仅自己可见。
 
-![Mob_Vacuum.gif](_images/ZH_CN/World/Mob_Vacuum.gif)
+![Mob_Vacuum.gif](_images/World/Mob_Vacuum.gif)
 
 ### 怪物 (包括怪物)
 
@@ -586,7 +586,7 @@
 
 - 多人游戏下仅限成为[<font>**`联机主要者`**</font>](/CO-OP_Master)时能替换怪物的攻击与技能。
 
-![Monster_Changer.png](_images/ZH_CN/World/Monster_Changer.png)
+![Monster_Changer.png](_images/World/Monster_Changer.png)
 
 ### 排除动物
 
@@ -614,7 +614,7 @@
 
 是否启用`掉落物吸附`。
 
-![Vacuum_Loot.gif](_images/ZH_CN/World/Vacuum_Loot.gif)
+![Vacuum_Loot.gif](_images/World/Vacuum_Loot.gif)
 
 ### 延迟时间(毫秒)
 

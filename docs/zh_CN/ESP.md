@@ -22,7 +22,7 @@
 
 - 可选择: `无` `矩形` `盒子` `四角盒子`
 
-![Draw_Mode.png](_images/ZH_CN/ESP/Draw_Mode.png)
+![Draw_Mode.png](_images/ESP/Draw_Mode.png)
 
 #### 追踪模式
 
@@ -30,13 +30,13 @@
 
 - 可选择: `无` `线` `离屏箭头`
 
-![Tracer_Mode.png](_images/ZH_CN/ESP/Tracer_Mode.png)
+![Tracer_Mode.png](_images/ESP/Tracer_Mode.png)
 
 #### 填充 边框/长方形/箭头
 
 将会填充`边框`、`长方形`与`箭头`。
 
-![Fill_Box-Rectangle-Arrows.png](_images/ZH_CN/ESP/Fill_Box-Rectangle-Arrows.png)
+![Fill_Box-Rectangle-Arrows.png](_images/ESP/Fill_Box-Rectangle-Arrows.png)
 
 #### 填充透明度
 
@@ -46,7 +46,7 @@
 
 将`线`追踪从屏幕中间开始 而不是从角色底部。
 
-![Middle_Screen_Tracer.png](_images/ZH_CN/ESP/Middle_Screen_Tracer.png)
+![Middle_Screen_Tracer.png](_images/ESP/Middle_Screen_Tracer.png)
 
 #### 显示名称
 
@@ -60,7 +60,7 @@
 
 是否显示绘制对象的生命值。
 
-![Draw_Name-Distance-Health.png](_images/ZH_CN/ESP/Draw_Name-Distance-Health.png)
+![Draw_Name-Distance-Health.png](_images/ESP/Draw_Name-Distance-Health.png)
 
 #### 隐藏已完成的解密
 

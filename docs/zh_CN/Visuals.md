@@ -10,7 +10,7 @@
 
 更长距离的宝箱，游戏机制提示。
 
-![Show_Chest_Indicator.png](_images/ZH_CN/Visuals/Show_Chest_Indicator.png)
+![Show_Chest_Indicator.png](_images/Visuals/Show_Chest_Indicator.png)
 
 ### 显示技能冷却
 
@@ -19,13 +19,13 @@
 - 多人游戏下不可看见队友的技能冷却情况。
 - 关闭后贴图不会立即消失，需要传送一次。
 
-![Show_Skill_Cooldowns.gif](_images/ZH_CN/Visuals/Show_Skill_Cooldowns.gif)
+![Show_Skill_Cooldowns.gif](_images/Visuals/Show_Skill_Cooldowns.gif)
 
 ### 去雾
 
 去除所有雾类特效。
 
-![No_fog.png](_images/ZH_CN/Visuals/No_fog.png)
+![No_fog.png](_images/Visuals/No_fog.png)
 
 ### 隐藏界面
 
@@ -34,7 +34,7 @@
 - 可能会导致一些会暂停游戏的界面中画面异常 此时需要关闭此项。
 - UID不会被隐藏，需要的可以使用自定义资料卡
 
-![Hide_UI.png](_images/ZH_CN/Visuals/Hide_UI.png)
+![Hide_UI.png](_images/Visuals/Hide_UI.png)
 
 ### GM 图标
 
@@ -44,7 +44,7 @@
 
 使被摄像机靠近的角色不会被虚化。
 
-![Enable_Peeking.png](_images/ZH_CN/Visuals/Enable_Peeking.png)
+![Enable_Peeking.png](_images/Visuals/Enable_Peeking.png)
 
 ### 派蒙跟随
 

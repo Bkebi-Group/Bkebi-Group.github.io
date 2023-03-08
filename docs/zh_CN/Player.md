@@ -24,7 +24,7 @@
 - 会覆盖下面的`随机倍攻`和`倍率`。
 - 一次攻击最大200倍率。
 
-![One-Punch_Mode.gif](_images/ZH_CN/Player/One-Punch_Mode.gif)
+![One-Punch_Mode.gif](_images/Player/One-Punch_Mode.gif)
 
 ##### 随机倍攻 
 
@@ -33,7 +33,7 @@
 - 会覆盖下面的`倍攻模式 `。
 - 仅在`秒杀模式`关闭的情况下生效。
 
-![Randomize_Mulitiplier.gif](_images/ZH_CN/Player/Randomize_Mulitiplier.gif)
+![Randomize_Mulitiplier.gif](_images/Player/Randomize_Mulitiplier.gif)
 
 ##### 倍攻模式 
 
@@ -41,7 +41,7 @@
 
 - 仅在`秒杀模式`和`随机倍攻`关闭的情况下生效。
 
-![Muliti-Hit_Mode.gif](_images/ZH_CN/Player/Muliti-Hit_Mode.gif)
+![Muliti-Hit_Mode.gif](_images/Player/Muliti-Hit_Mode.gif)
 
 #### 普攻范围 
 
@@ -49,7 +49,7 @@
 
 - 伤害仅会显示在被攻击的生物上。
 
-![Multi-Target.gif](_images/ZH_CN/Player/Multi-Target.gif)
+![Multi-Target.gif](_images/Player/Multi-Target.gif)
 
 #### 多重动画 
 
@@ -65,7 +65,7 @@
 
 如果在角色攻击时关闭 则角色会一直保持攻击时的速度。
 
-![Attack_Speed.gif](_images/ZH_CN/Player/Attack_Speed.gif)
+![Attack_Speed.gif](_images/Player/Attack_Speed.gif)
 
 ### 自定义元素 
 
@@ -83,7 +83,7 @@
 - 会覆盖下面的`元素类型`。
 - 随机选择11种: 火 水 草 雷 冰 冰封 风 岩 免疫 枫丹小艇反冻结 未知
 
-![RandomElementType.gif](_images/ZH_CN/Player/RandomElementType.gif)
+![RandomElementType.gif](_images/Player/RandomElementType.gif)
 
 #### 元素类型 
 
@@ -91,7 +91,7 @@
 
 - 可指定12种: 无 火 水 草 雷 冰 冰封 风 岩 免疫 枫丹小艇反冻结 未知
 
-![ElementType.png](_images/ZH_CN/Player/ElementType.png)
+![ElementType.png](_images/Player/ElementType.png)
 
 #### 元素队列模式 
 
@@ -99,7 +99,7 @@
 
 - 会覆盖上面的`元素类型`。
 
-![Queued_Element.gif](_images/ZH_CN/Player/Queued_Element.gif)
+![Queued_Element.gif](_images/Player/Queued_Element.gif)
 
 ##### 无攻击时自动重置队列
 
@@ -137,7 +137,7 @@
 
 调整`自动奔跑`的速度。
 
-![Auto_Run.gif](_images/ZH_CN/Player/Auto_Run.gif)
+![Auto_Run.gif](_images/Player/Auto_Run.gif)
 
 <!--
 ## 命座修改器 
@@ -170,19 +170,19 @@
 - 依旧不会处于一直满能量状态 可以积攒能量且使用元素爆发后会被清空。
 - 左侧会强制显示所有角色的充能图标 有可能会显示已充能能量。
 
-![Max_Burst_Energy.png](_images/ZH_CN/Player/Max_Burst_Energy.png)
+![Max_Burst_Energy.png](_images/Player/Max_Burst_Energy.png)
 
 ### 减少 战技/爆发 冷却时间 
 
 使元素战技/元素爆发的冷却时间调试为`所设定的数值-1(秒)`。
 
-![Reduce_Skill-Burst_Cooldown.gif](_images/ZH_CN/Player/Reduce_Skill-Burst_Cooldown.gif)
+![Reduce_Skill-Burst_Cooldown.gif](_images/Player/Reduce_Skill-Burst_Cooldown.gif)
 
 ### 无冲刺冷却时间 
 
 使角色可以无限连续冲刺。
 
-![No_Sprint_Cooldown.gif](_images/ZH_CN/Player/No_Sprint_Cooldown.gif)
+![No_Sprint_Cooldown.gif](_images/Player/No_Sprint_Cooldown.gif)
 
 ### 弓箭瞬间蓄力 
 
@@ -192,7 +192,7 @@
 - 目前会导致菲谢尔无法射出箭矢。
 - 如有角色瞬间蓄力无效 请在 [此Discord频道](https://discord.com/channels/1026295403282436097/1073216872931151922) 上提供反馈。
 
-![Instant_Bow_Charge.gif](_images/ZH_CN/Player/Instant_Bow_Charge.gif)
+![Instant_Bow_Charge.gif](_images/Player/Instant_Bow_Charge.gif)
 
 ------
 
@@ -222,7 +222,7 @@
 
 设置角色坠落时的水平运动速度。
 
-![Fall-Control.gif](_images/ZH_CN/Player/Fall-Control.gif)
+![Fall-Control.gif](_images/Player/Fall-Control.gif)
 
 <!--
 ## 攻击队友 
@@ -257,7 +257,7 @@
 
 - 至Bkebi-1.0.3起 此功能无法免疫摔落伤害。
 
-![God_Mode.gif](_images/ZH_CN/Player/God_Mode.gif)
+![God_Mode.gif](_images/Player/God_Mode.gif)
 
 #### 触发条件 
 
@@ -271,7 +271,7 @@
 
 免疫摔落伤害。
 
-![No_Fall.gif](_images/ZH_CN/Player/No_Fall.gif)
+![No_Fall.gif](_images/Player/No_Fall.gif)
 
 ------
 
@@ -285,7 +285,7 @@
 
 - 有可能造成无法冲刺、攀爬、飞行等 需要重启游戏以恢复。
 
-![Infinite_Stamina.png](_images/ZH_CN/Player/Infinite_Stamina.png)
+![Infinite_Stamina.png](_images/Player/Infinite_Stamina.png)
 
 #### 阻止上传模式(更安全) 
 
@@ -307,7 +307,7 @@
 - 队友可能不能看到你在空中飞行 而只是在地上行走。
 - 默认按键: `W` - 向前移动 | `S` - 向后移动 | `A` - 向左移动 | `D` - 向右移动 | `Space` - 向上移动(相对角色) | `LCtrl` - 向下移动(相对角色)
 
-![No-Clip.gif](_images/ZH_CN/Player/No-Clip.gif)
+![No-Clip.gif](_images/Player/No-Clip.gif)
 
 ### 允许在空中释放技能 
 
@@ -316,7 +316,7 @@
 - 使角色在空中可以保持站立状态而不会进入坠落状态。
 - 需要在站立状态下启用`自由移动`才可以在空中释放技能。
 
-![No_Animation.png](_images/ZH_CN/Player/No_Animation.png)
+![No_Animation.png](_images/Player/No_Animation.png)
 
 ### 相对相机方向移动 
 
@@ -338,7 +338,7 @@
 
 - 在速度过慢时 你可能无法穿过部分地形。
 
-![Freeflight_mode.gif](_images/ZH_CN/Player/Freeflight_mode.gif)
+![Freeflight_mode.gif](_images/Player/Freeflight_mode.gif)
 
 ### 使用自定义按键 
 
@@ -366,7 +366,7 @@
 
 立即在前方生成一座合成台。
 
-![Spawn_Alchemy_Table.png](_images/ZH_CN/Player/Spawn_Alchemy_Table.png)
+![Spawn_Alchemy_Table.png](_images/Player/Spawn_Alchemy_Table.png)
 
 #### 自定义合成
 

@@ -9,9 +9,9 @@
 
 将这两个文件解压出来放在**非原神根目录、非桌面、非中文路径**的任意文件夹中（推荐使用空文件夹），我们就完成了下载解压步骤了。
 
-![](_images/ZH_CN/GithubRelease.png "下载程序")
+![](_images/QuickStart/GithubRelease.png "下载程序")
 
-![](_images/ZH_CN/Download.png "解压程序")
+![](_images/QuickStart/Download.png "解压程序")
 
 > 如果访问和下载速度慢，你可能需要开启网络加速器，此处不作多余说明。
 
@@ -27,21 +27,21 @@
 
 3. 在这里取得你的HWID
 
-![HWID.png](_images\ZH_CN\HWID.png ':size=50%')
+![HWID.png](_images\QuickStart\HWID.png ':size=50%')
 
 4. 前往[Discord#keygen](https://discord.com/channels/1026295403282436097/1079048003001782342)使用/generate free
 
-![HELP_ENTER_HWID.jpg](_images\ZH_CN\HELP_ENTER_HWID.jpg)
+![HELP_ENTER_HWID.jpg](_images\QuickStart\HELP_ENTER_HWID.jpg)
 
 5. 取得你的密钥文件并放置在libstdimpact.dll同目录
 
-![HELP_DOWNLOAD_LIC.jpg](_images\ZH_CN\HELP_DOWNLOAD_LIC.jpg)
+![HELP_DOWNLOAD_LIC.jpg](_images\QuickStart\HELP_DOWNLOAD_LIC.jpg)
 
-![HELP_LIC_PLACEMENT.jpg](_images\ZH_CN\HELP_LIC_PLACEMENT.jpg)
+![HELP_LIC_PLACEMENT.jpg](_images\QuickStart\HELP_LIC_PLACEMENT.jpg)
 
 3. 然后点击`Retry`即可进入游戏。
 
-![RESTART.png](_images\ZH_CN\RESTART.png)
+![RESTART.png](_images\QuickStart\RESTART.png)
 
 
 ## 使用建议
@@ -59,5 +59,5 @@
    * Simplified Chinese | ZH-CN | 简体中文
    * Traditonal Chinese | ZH-TW | 繁体中文
 
-![](_images/ZH_CN/ChangeLanguage.png "更换简体中文语言")
+![](_images/QuickStart/ChangeLanguage.png "更换简体中文语言")
 
