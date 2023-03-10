@@ -59,5 +59,5 @@
    * Simplified Chinese | ZH-CN | 简体中文
    * Traditonal Chinese | ZH-TW | 繁体中文
 
-![](_images/QuickStart/ChangeLanguage.png "更换简体中文语言")
+![更换简体中文语言](_images/QuickStart/ChangeLanguage.png ':size=60%' )
 
