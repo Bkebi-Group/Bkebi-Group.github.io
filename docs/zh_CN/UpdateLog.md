@@ -33,3 +33,28 @@
   - 修复lua执行器by @Alukym
   - 修复攻击效果滥发主控台信息by @Ame
   - 修复杀戮光环范围by @Ame
+## Bkebi-1.1.1
+- 新功能与优化：
+  - 新增了验证系统。对机器人使用指令/generate free以获得授权密钥 @RedDango   
+  - 制作新的界面 @Small_Ku
+  - 重写：自定义传送by @粉毛狐狸
+  - 重写：实体筛选器by @粉毛狐狸
+  - 重写：多重动画by @左田铃
+  - 旅行者元素切换by @左田铃
+  - 供奉神瞳by @左田铃
+  - 武器附魔by @左田铃
+  - 自动解谜by @粉毛狐狸
+  - 移动增强by @Ame
+  - 元素光环by @Ame
+  - 刀刀爆击by @airshelf
+  - 祈愿纪录连接（URL）获取器by @！root
+  - 在「关于」界面加入版本信息by @TomyJan
+  - 抑制主控台信息by @！root
+  - 显示GM图标by @PinMeBuyJokebiPro
+  - 史莱姆气球速度调整by @粉毛狐狸
+  - ESP筛选器优化by @粉毛狐狸and @！root
+  - 状态视窗优化by @Ame
+  - 互动地图视窗优化by @！root
+- 修复的Bugs：
+  - 传送到其他场景会传送到传送锚by @Microsoft Store
+  - …
